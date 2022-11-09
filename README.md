@@ -1,4 +1,4 @@
 # DanTech
 <div align="center">
-    <img src="home.png"</img> 
+    <img src="images/home.png"</img> 
 </div>
